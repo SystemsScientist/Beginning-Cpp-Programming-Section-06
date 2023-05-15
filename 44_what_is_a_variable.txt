@@ -1,0 +1,37 @@
+
+Section 06: What is a Variable?
+-----------------------------------------------------------------------------------
+
+What is a Variable?
+
+	- A variable is an abstraction for a memory location
+
+	- Allow programmers to use meaningful names and not
+	  memory addresses
+
+	- Variables have
+
+		+ Type - their category (integer, real 
+		  number, string, Person, Account, ...)
+
+		+ Value - the contents (10, 3.14, 
+		  "Frank", ...)
+
+	- Variables must be declared before they are used
+
+	- A variable's value may change
+
+	- Variable declaration example
+
+		int num1;
+
+	- Variable assignment example
+
+		num1 = 42;
+
+	- Variable initialization example
+
+		int num2 = 25;
+
+
+
