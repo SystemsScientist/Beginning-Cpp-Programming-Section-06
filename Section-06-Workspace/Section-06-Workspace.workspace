@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section-06-Workspace" Database="" Version="10000">
+  <Project Name="45-Declaring-and-Initializing-Variables" Path="45-Declaring-and-Initializing-Variables/45-Declaring-and-Initializing-Variables.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="45-Declaring-and-Initializing-Variables" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="45-Declaring-and-Initializing-Variables" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

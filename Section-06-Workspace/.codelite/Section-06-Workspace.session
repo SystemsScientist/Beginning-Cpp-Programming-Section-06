@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="/home/snarkydata/udemy-courses/Cpp-Courses/Beginning-Cpp-Programming-From-Beginner-to-Beyond/Section-06-Variables-and-Constants/Section-06-Workspace/Section-06-Workspace.workspace">
+  <int Value="0" Name="m_selectedTab"/>
+  <wxString Value="/home/snarkydata/udemy-courses/Cpp-Courses/Beginning-Cpp-Programming-From-Beginner-to-Beyond/Section-06-Variables-and-Constants/Section-06-Workspace/Section-06-Workspace.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray"/>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+  <wxString Value="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.inc;*.mm;*.m;*.xrc;*.plist;*.txt" Name="m_findInFilesMask"/>
+</Session>
