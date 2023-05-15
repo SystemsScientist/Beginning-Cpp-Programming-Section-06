@@ -1,0 +1,33 @@
+
+Section 06: Section Overview
+------------------------------------------------------------------------------
+
+Variables and Constants I
+
+	- Declaring variables
+
+	- C++ primitive types
+
+		+ integer
+
+		+ floating point
+
+		+ boolean
+
+		+ character
+
+	- sizeof operator
+
+
+Variables and Constants II
+
+	- What is a constant?
+
+	- Declaring constants
+
+	- Literal constants
+
+	- Constant expressions
+
+
+
