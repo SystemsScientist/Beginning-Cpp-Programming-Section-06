@@ -1,0 +1,45 @@
+
+Section 06: What is the Size of a Variable (sizeof)
+---------------------------------------------------------------------------------------
+
+Using the sizeof operator I
+
+	- The sizeof operator
+
+		+ determines the size in bytes of a type
+		  or variable
+
+	- Examples
+
+		sizeof(int)
+
+		sizeof(double)
+
+		sizeof(some_variable)
+
+		sizeof some_variable
+
+
+Using the sizeof operator II
+
+	- The sizeof operator gets its information from
+	  two C++ include files
+
+		+ <climits>
+
+		+ <cfloat>
+
+	- The climits and cfloat include files that 
+	  contain size and precision information about
+	  your implementation of C++
+
+		INT_MAX
+		INT_MIN
+		LONG_MIN
+		LONG_MAX
+		FLT_MIN
+		FLT_MAX
+		...
+
+
+
