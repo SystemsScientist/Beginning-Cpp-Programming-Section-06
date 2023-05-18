@@ -1,4 +1,16 @@
-
+/*
+ * Author: Matt Johnson
+ * Subject: built-in-primitive types
+ * Purpose:
+ * Date: 05/18/2023
+ *
+ * Notes:
+ *
+ * 	- use list notation '{mn}' to catch errors at compile time
+ * 	- change long or long long to int to see an example of
+ * 	  overflow
+ *
+ */
 
 #include <iostream> 
 
